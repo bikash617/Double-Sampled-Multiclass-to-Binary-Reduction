@@ -6,7 +6,7 @@ We address the problem of multiclass classification in the case where the number
 
 ## Running Instructions: 
 
-python3 run_script_m2b_github.py train_filename test_filename example_samples class_sampling Candidates
+python3 run_script_m2b_github.py '<train_filename>' test_filename example_samples class_sampling Candidates
 
 Where,
 example_samples (mu): Number of examples to be taken per class ( e.g. values 1, 2, 5)
