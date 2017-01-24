@@ -14,7 +14,7 @@ class_sampling: Sampling rate for choosing classes to sample ( e.g. 0.1, 0.01, 0
 sampling is set as 1 / Size of class, if user enters less than this value by default 1 class will be chosen.
 Candidates (sigma): Number of candidate classes for prediction (e.g. 10, 20, 50)
 
-Author Information: 
+Author Information:
 1.) Bikash Joshi
 2.) Ioannis Partalas
 
