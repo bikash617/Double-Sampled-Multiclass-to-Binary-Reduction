@@ -18,6 +18,7 @@ Candidates (sigma): Number of candidate classes for prediction (e.g. 10, 20, 50)
 
 ## Author Information:
 1.) Bikash Joshi
+
 2.) Ioannis Partalas
 
 ## License: 
